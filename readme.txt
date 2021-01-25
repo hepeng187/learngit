@@ -2,3 +2,4 @@
 添加一行
 再添加一行
 finally
+Creating a new branch is quick.
